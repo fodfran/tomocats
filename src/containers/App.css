@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'Cat Cat Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Cat Cat Regular'), url('CATCAT__.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Kitty face Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Kitty face Medium'), url('Kitty face.woff') format('woff');
+}
+
+h1{
+	font-family: 'Kitty face Medium';
+	font-weight: 200;
+	color: #0ccac4;
+}
